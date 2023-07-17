@@ -1,2 +1,2 @@
 # line-chatgpt
-LINE Webhook 串接 Chatgpt
+LINE Webhook 串接 Chatgpt Reply

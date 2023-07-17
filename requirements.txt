@@ -1,0 +1,11 @@
+django
+gunicorn
+numpy
+pandas
+line-bot-sdk
+urllib3
+requests
+flask
+openai
+python-dotenv
+
